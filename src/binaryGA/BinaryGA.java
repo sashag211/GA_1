@@ -3,7 +3,7 @@ package binaryGA;
 import data.LoadData;
 import java.util.ArrayList;
 
-//@author sasha
+//@author sasha g
 
 public class BinaryGA {
 
